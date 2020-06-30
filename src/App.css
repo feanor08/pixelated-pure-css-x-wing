@@ -5,24 +5,18 @@
 .rotate {
   width: inherit;
   height: inherit;
-  -webkit-transform: rotate(270deg);
-          transform: rotate(270deg);
 }
 
 .x-wing-pixel {
-  width: 1200px;
-  height: 1200px;
-  background: transparent;
-  -webkit-animation: goRight 5s infinite;
-          animation: goRight 5s infinite;
+  width: 300px;
+  height: 300px;
+  background: blue;
 }
 
 .x-wing {
   width: inherit;
   height: inherit;
   position: relative;
-  -webkit-animation: shake 1s infinite;
-          animation: shake 1s infinite;
 }
 
 .wing {

@@ -1,0 +1,86 @@
+@import '../../assets/colors.scss';
+
+.wing{
+    width: 93.33%;
+    height: 26.67%;
+    background-color: $test-back;
+    right:3.33%;
+    left:3.33%;
+    top:16.667%;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:0;
+    padding: 0;
+    .wing-one{
+      @include blockGenerator(50%,12.5% ,$bodyColor )
+    }
+    .wing-two{
+      @include blockGenerator(57.143%,12.5% ,$bodyColor )
+    }
+    .wing-three{
+      @include blockGenerator(92.857%,12.5% ,$bodyColor )
+    }
+    .wing-four{
+      @include blockGenerator(100%,62.5% ,$bodyColor )
+    }
+  }
+  .head{
+    width: 33.333%;
+    height: 56.667%;
+    background-color: $test-back;
+    bottom:3.33%;
+    left:33.333%;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:0;
+    padding: 0;
+    .head-zero{
+      @include blockGenerator(100%,12.5% ,$bodyColor )
+    }
+    .head-one{
+      @include blockGenerator(80%,56.25% ,$bodyColor )
+    }
+    .head-two{
+      @include blockGenerator(60%,25% ,$bodyColor )
+    }
+    .head-three{
+      @include blockGenerator(50%,12.5% ,$bodyColor )
+    }
+    .head-four{
+      @include blockGenerator(20%,6.25% ,$bodyColor )
+    }
+  }
+  .tail{
+    width: 33.333%;
+    height: 13.333%;
+    background-color: $test-back;
+    position: absolute;
+    right:33.333%;
+    top:6.666%;
+    display: flex;
+    flex-direction: row;
+    margin:0;
+    padding: 0;
+    align-items: flex-end;
+    .tail-one{
+      @include blockGenerator(20%,100% ,$bodyColor );
+      margin-right: 10%;
+    }
+    .tail-two{
+      @include blockGenerator(10%,75% ,$bodyColor );
+    }
+    .tail-three{
+      @include blockGenerator(20%,50% ,$bodyColor );
+    }
+    .tail-four{
+      @include blockGenerator(10%,75% ,$bodyColor );
+    }
+    .tail-five{
+      @include blockGenerator(20%,100% ,$bodyColor );
+      margin-left: 10%;
+    }
+  }
