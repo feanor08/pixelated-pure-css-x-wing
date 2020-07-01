@@ -2,13 +2,13 @@
 
 ## Made with Pure CSS
 
-```
-![image info](./demo/demoImage.png)
-```
 
-```
-[![license](https://img.shields.io/badge/license-MIT-green.svg)]
-```
+ ![image info](./demo/demo-image.png)
+
+
+
+ ![license](https://img.shields.io/badge/license-MIT-green.svg)
+
 
 
 
