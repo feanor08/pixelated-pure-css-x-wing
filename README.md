@@ -5,7 +5,7 @@
 [![image info](./demo/demoImage.png)]
 
 
-[![license](https://img.shields.io/badge/license-MIT-green.svg)
+ ![license](https://img.shields.io/badge/license-MIT-green.svg)
 
 
 
