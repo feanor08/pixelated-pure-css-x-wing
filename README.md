@@ -1,16 +1,10 @@
 # X Wing : Pixel Art
-
-## Made with Pure CSS
-
-
- ![image info](./demo/demo-image.png)
-
-
+#####Pure CSS X Wing!
+<div style="text-align:center">
+<img src='./demo/demo-image.png' />
+</div>
 
  ![license](https://img.shields.io/badge/license-MIT-green.svg)
-
-
-
 
 ###Installation
 
