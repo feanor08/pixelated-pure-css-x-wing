@@ -11,7 +11,7 @@ const Body = () => {
                 <div className="wing-three " />
                 <div className="wing-four " />
             </div>
-                <div className="head test">
+                <div className="head ">
                 <div className="head-zero " />
                 <div className="head-one " />
                 <div className="head-two " />
