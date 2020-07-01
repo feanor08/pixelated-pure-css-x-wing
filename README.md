@@ -2,7 +2,7 @@
 
 ## Made with Pure CSS
 
- ![image info](./demo/demoImage.png)
+ ![image info](./demo/demo-image.png)
 
 
  ![license](https://img.shields.io/badge/license-MIT-green.svg)
