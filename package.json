@@ -1,6 +1,6 @@
 {
   "name": "pixelated-pure-css-x-wing",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "A Pure Css X Wing Fighter Component",
   "main": "./build/index.js",
   "scripts": {
@@ -14,8 +14,15 @@
     "react",
     "pixel-art"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feanor08/pixelated-pure-css-x-wing"
+  },
   "author": "feanor08",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feanor08/pixelated-pure-css-x-wing/issues"
+  },
   "devDependencies": {
     "@babel/core": "^7.7.5",
     "@babel/preset-env": "^7.7.6",
