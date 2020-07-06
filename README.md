@@ -14,7 +14,7 @@
 npm i pixelated-pure-css-x-wing
 ```
 
-```sh
+```js
 yarn add pixelated-pure-css-x-wing
 ```
 
